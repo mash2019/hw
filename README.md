@@ -1,2 +1,0 @@
-# hw
-hello world
